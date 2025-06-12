@@ -72,7 +72,7 @@ export default class RegisterPaqueteComponent implements OnInit {
       }
     });
   }
-
+//Nuevo c
   // Nuevo método: obtiene los paquetes del residente actualmente logueado
   private cargarMisPaquetes(): void {
     this.isLoadingPaquetes = true;
